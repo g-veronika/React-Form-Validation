@@ -1,9 +1,10 @@
 import './App.css';
+import Form from './Form';
 
 function App() {
   return (
     <>
-    <h1>Yoooooooooooo</h1>
+    <Form />
     </>
   )
 }
